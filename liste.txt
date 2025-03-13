@@ -2,3 +2,4 @@ hızlı
 sade
 verimli
 güvenli
+estetik
