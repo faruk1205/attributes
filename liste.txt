@@ -2,4 +2,5 @@ sade
 hızlı
 güvenli
 estetik
-erdogan ozellik
+erdogan ozellik (güncellendi)
+faruk ozellik (yeni ozellik)
